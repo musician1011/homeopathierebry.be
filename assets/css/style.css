@@ -382,6 +382,16 @@ section {
   color: #45505b;
 }
 
+.section-title h4 {
+  font-size: 18px;
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #45505b;
+}
+
 .section-title h2::before {
   content: "";
   position: absolute;
